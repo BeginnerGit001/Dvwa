@@ -1,0 +1,3 @@
+dom for low security.
+Method one: default=<script>alert</script> after urlencode.
+Method two: 
